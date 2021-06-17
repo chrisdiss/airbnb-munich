@@ -3,10 +3,10 @@
 Udacity Data Science NanoDegree Project #1
 
 ## Table of contents
-[Installation](#installation)
-[Motivation](#motivation)
-[File Description](#file)
-[Findings](#findings)
+[Installation](#installation) <br>
+[Motivation](#motivation) <br>
+[File Description](#file) <br>
+[Findings](#findings) <br>
 
 
 <a name="installation"/>
