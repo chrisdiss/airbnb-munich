@@ -9,8 +9,8 @@ Udacity Data Science NanoDegree Project #1
 [Findings](#findings) <br>
 
 
-<a name="installation"/>
 ## Installation
+<a name="installation"/>
 The code in the project can be executed using Anaconda distribution of Python ver 3.x and does not require any additional scripts.
 
 <a name="motivation"/>
