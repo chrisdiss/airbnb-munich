@@ -13,14 +13,16 @@ Udacity Data Science NanoDegree Project #1
 <a name="installation"/>
 The code in the project can be executed using Anaconda distribution of Python ver 3.x and does not require any additional scripts.
 
-<a name="motivation"/>
 ## Motivation
+<a name="motivation"/>
+
 I took up writing this blog as part of second term of the nanodegree become a data scientist of Udacity. I was particular interested in identifying what are main factors influencing accomodation prices in Seattle to rent through Airbnb.
 
 The findings of the project are publish in a blog here.
 
-<a name="file"/>
 ## File descriptions
+<a name="file"/>
+
 There are 4 files available in the project
 
 Readme.md (this file)
@@ -28,8 +30,9 @@ Seattle_airbnb.ipynb (the python Notebook)
 Calendar.csv (data file about booking information in Seattle). Data source — https://www.kaggle.com/airbnb/seattle/data
 Listings.csv (data file about Information about the houses in Seattle). Data source — https://www.kaggle.com/airbnb/seattle/data
 
-<a name="findings"/>
 ## Findings
+<a name="findings"/>
+
 With my analysis of the shared data I found out that
 
 The peak season is from June to August and are lowest is from January to March
