@@ -34,19 +34,24 @@ Data source — http://insideairbnb.com/get-the-data.html <br>
 ## Findings
 <a name="findings"/>
 
-With my analysis of the shared data I found out that
+The analysis focused on three questions:<br>
 
-The peak season is from June to August and are lowest is from January to March
-The rates are higher on weekends
-Apartments and Houses comprise of about 90% of total listings
-Neighborhoods of Southeast Magnolia, Portage Bay and Westlake have highest mean price, while the neighborhoods of Rainier Beach, Olympic Hills and South Delridge have lowest mean prices
-Broadway, Belltown and Wallingford have highest listing counts, while neighborhoods of Roxhill, South Park and Pinehurst have lower listing counts
-Accommodation size (determined by number of bedrooms, how many people it accommodates, number of bathrooms) is by far the single biggest price influencer.
-Author
-Christoph Emmert
+1. Which factors are influecing the price of an AirBnB? <br>
+2. Which factors are influencing a review? <br>
+3. Are there, based on the learnings from the question 1 & 2 underrated AirBnBs? <br>
 
-https://github.com/ST7677
-Blog at Medium - https://medium.com/@sunilthakur_67045/analysis-of-2016-airbnb-offering-in-seattle-16e524e58c93
+First, the data provides information about that a price varies depending on the neighourhood and the room type of an AirBnB. The data model could, although we performed several iterations of feature engineering, predict the price with a r2 of 23,1%. Neighbourhood had the biggest impact on predicting the price iwth Altstadt-Lehel being the most expensive one. After that the room type of a shared room and private room predicted the price in a negative way. The host response time also played a important factor in predicting the price with having a negative impact when the host responded within a day.
+Second, I build a data model that could predict the review rating with a r2 of 68,1%. Further analysis showed that especially the accuracy of availabe data on a certain AirBnB and the communication with the host as well as the cleanliness had a strong and positive impact on the reviews. Also in which neighbourhood the AirBnB is located tends to have an influence on the review.
+Third, with this knowledge I tried to find AirBnBs that are underrated in terms of the price / performance ratio. I searched for listings that have a price below the average of the given neighbourhood and room type and perform better than the average in the reviews for a certain neighbourhood. With this search criteria I could identify six AirBnBs that are potentially interesting. The data also shows that those AirBnBs are highly booked what underlines there special value.
 
-Thanks
-Thanks to Udacity for allowing opportunity to learn on these real life data sets.
+<br>
+### Further information
+Author<br>
+Christoph Emmert<br>
+
+<br>
+https://github.com/chrisdiss/airbnb-munich/<br>
+Blog at Medium - 
+<br>
+
+Thanks to Udacity for providing the necessary information for analyzing this data set.
