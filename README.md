@@ -3,20 +3,23 @@
 Udacity Data Science NanoDegree Project #1
 
 ## Table of contents
-Installation
-Project motivation
-File descriptions
-Results
-Author
+[Installation](#installation)
+[Motivation](#motivation)
+[File Description](#file)
+[Findings](#findings)
 
+
+<a name="installation"/>
 ## Installation
 The code in the project can be executed using Anaconda distribution of Python ver 3.x and does not require any additional scripts.
 
-## Project motivation
+<a name="motivation"/>
+## Motivation
 I took up writing this blog as part of second term of the nanodegree become a data scientist of Udacity. I was particular interested in identifying what are main factors influencing accomodation prices in Seattle to rent through Airbnb.
 
 The findings of the project are publish in a blog here.
 
+<a name="file"/>
 ## File descriptions
 There are 4 files available in the project
 
@@ -25,6 +28,7 @@ Seattle_airbnb.ipynb (the python Notebook)
 Calendar.csv (data file about booking information in Seattle). Data source — https://www.kaggle.com/airbnb/seattle/data
 Listings.csv (data file about Information about the houses in Seattle). Data source — https://www.kaggle.com/airbnb/seattle/data
 
+<a name="findings"/>
 ## Findings
 With my analysis of the shared data I found out that
 
