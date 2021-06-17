@@ -23,13 +23,13 @@ The findings of the project are published here and in a blog article on medium.
 ## File descriptions
 <a name="file"/>
 
-Readme.md (this file)
-EDA.ipynb (the python Notebook)
-listings.csv.gz 
-listings.csv 
-neighbourhoods.csv
-reviews.csv.gz
-Data source — http://insideairbnb.com/get-the-data.html
+Readme.md (this file) <br>
+EDA.ipynb (the python Notebook) <br>
+listings.csv.gz  <br>
+listings.csv  <br>
+neighbourhoods.csv <br>
+reviews.csv.gz <br>
+Data source — http://insideairbnb.com/get-the-data.html <br>
 
 ## Findings
 <a name="findings"/>
